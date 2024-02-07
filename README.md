@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MaiABDL4
 - 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m open for collaborations with beiginner coders and aspiring front/full end programmers!
+- 💞️ I’m open for collaborations with beginner coders and aspiring front/full end programmers!
 
 
 <!---
