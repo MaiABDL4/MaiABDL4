@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaiABDL4
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning HTML and CSS, and will start JS soon!
 - 💞️ I’m open for collaborations with beginner coders and aspiring front/full end programmers!
 
 
